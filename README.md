@@ -1,3 +1,4 @@
 # Face-Detection-Algorithm
 
-Data wgera sab idar upload krne ka
+This model Classifies whether input image is obstructed,animated,unprofessional or Clear.
+and return the data in form of an api
